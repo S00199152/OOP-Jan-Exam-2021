@@ -24,5 +24,10 @@ namespace Jan_Exam_2021
         {
             InitializeComponent();
         }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+             
+        }
     }
 }
